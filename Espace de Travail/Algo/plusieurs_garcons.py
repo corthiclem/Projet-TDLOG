@@ -5,54 +5,39 @@
 import random
 import copy
 import unittest
+from gender import preferences
 
- 
-guyprefers2 = {
-    'alpha': ['C', 'A', 'B'],
-    'beta': ['B', 'A', 'C'],
-    'gamma': ['A', 'C', 'B'],
-    'delta': ['A', 'B', 'C'],
-}
-
-galprefers2 = {
-    'A': ['alpha', 'beta', 'gamma', 'delta'],
-    'B': ['alpha', 'beta', 'gamma', 'delta'],
-    'C': ['gamma', 'alpha', 'beta', 'delta'],
- }
-
-capacity2 = {
-    'A': 2,
-    'B': 1,
-    'C': 1,
-}
-
-guyprefers = {
- 'abe':  ['abi', 'cath', 'bea'],
- 'bob':  ['cath', 'abi', 'bea'],
- 'col':  ['abi', 'bea', 'cath'],
- 'dan':  ['bea', 'cath', 'abi'],
- 'ed':   ['bea', 'cath', 'abi'],
- 'fred': ['bea', 'abi', 'cath'],
- 'gav':  ['bea', 'cath', 'abi'],
- 'hal':  ['abi', 'cath', 'bea'],
- 'ian':  ['cath', 'bea', 'abi'],
- 'jon':  ['abi', 'bea', 'cath'],
- }
-
-galprefers = {
- 'abi':  ['bob', 'fred', 'jon', 'gav', 'ian', 'abe', 'dan', 'ed', 'col', 'hal'],
- 'bea':  ['bob', 'abe', 'col', 'fred', 'gav', 'dan', 'ian', 'ed', 'jon', 'hal'],
- 'cath': ['fred', 'bob', 'ed', 'gav', 'hal', 'col', 'ian', 'abe', 'dan', 'jon'],
- }
+guyprefers = preferences().guyprefers
+galprefers = preferences().galprefers
+capacity = preferences().capacity
 
 guys = sorted(guyprefers.keys())
 gals = sorted(galprefers.keys())
 
-capacity = {
-    'abi':  4,
-    'bea':  3,
-    'cath': 1,
-}
+# guyprefers= {
+#  'abe':  ['abi', 'cath', 'bea'],
+#  'bob':  ['cath', 'abi', 'bea'],
+#  'col':  ['abi', 'bea', 'cath'],
+#  'dan':  ['bea', 'cath', 'abi'],
+#  'ed':   ['bea', 'cath', 'abi'],
+#  'fred': ['bea', 'abi', 'cath'],
+#  'gav':  ['bea', 'cath', 'abi'],
+#  'hal':  ['abi', 'cath', 'bea'],
+#  'ian':  ['cath', 'bea', 'abi'],
+#  'jon':  ['abi', 'bea', 'cath'],
+#  }
+
+# galprefers = {
+#  'abi':  ['bob', 'fred', 'jon', 'gav', 'ian', 'abe', 'dan', 'ed', 'col', 'hal'],
+#  'bea':  ['bob', 'abe', 'col', 'fred', 'gav', 'dan', 'ian', 'ed', 'jon', 'hal'],
+#  'cath': ['fred', 'bob', 'ed', 'gav', 'hal', 'col', 'ian', 'abe', 'dan', 'jon'],
+#  }
+
+# capacity = {
+#     'abi':  4,
+#     'bea':  3,
+#     'cath': 1,
+# }
 
 
 
