@@ -52,14 +52,16 @@ class Profile():
 		for subject in random_subjects:
 			self.standards[subject] = random.randint(0, 10) / 10 # Indice compris entre 0 et 1
 
-	def set_capacity(self, capacity):
-		self.capacity = capacity
+	def set_capacity(self):
+		if self.gender == 'female':
+			self.capacity = random.randint(1,3)
 
 
 class man(Profile):
 	def __init__(self, name):
-		super().__init__(name)
+		super().__init__(name, 'male')
 
 class woman(Profile):
 	def __init__(self, name):
-		super().__init__(name)
+		super().__init__(name, 'female')
+		self.set_capacity()
