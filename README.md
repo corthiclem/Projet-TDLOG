@@ -7,4 +7,4 @@ de la forme Prénom_Nom sont des fichiers que nous avons créés qui gonflent l'
 de préférences vide, et celle-ci est remplie aléatoirement en fonction des fichiers contenus dans data/girls (les écoles en fait)
 à chaque mariage stable.
 
-Les fichiers HTML sont dans projetTest/polls/ . Il y a index2.html, index_school.html et showresults.html.
+Les fichiers HTML sont dans projetTest/polls/ . Il y a index2.html, index_school.html et results.html.
