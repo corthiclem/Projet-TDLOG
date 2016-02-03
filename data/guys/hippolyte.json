@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 19,
+        "biology": 17,
+        "economy": 11,
+        "musique": 0,
+        "spanish": 12,
+        "physics": 4,
+        "french": 3,
+        "maths": 4,
+        "sport": 13,
+        "phylosophy": 11
+    },
+    "gender": "male",
+    "name": "hippolyte"
+}

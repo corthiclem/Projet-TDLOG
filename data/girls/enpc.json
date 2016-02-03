@@ -1,0 +1,14 @@
+{
+    "standards": {
+        "physics": 0.7,
+        "economy": 0.8,
+        "spanish": 0.3,
+        "biology": 0.0,
+        "french": 0.1,
+        "sport": 0.2,
+        "phylosophy": 0.4
+    },
+    "capacity": 5,
+    "gender": "female",
+    "name": "enpc"
+}

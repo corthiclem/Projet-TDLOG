@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 6,
+        "biology": 10,
+        "economy": 5,
+        "musique": 8,
+        "spanish": 1,
+        "physics": 19,
+        "french": 5,
+        "maths": 1,
+        "sport": 7,
+        "phylosophy": 15
+    },
+    "gender": "male",
+    "name": "oussman"
+}

@@ -1,0 +1,23 @@
+{% load staticfiles %}
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html" charset=utf-8"/>
+<title>Dynamic Forms in Django Example</title>
+<link rel="stylesheet" href="{% static "CSS/index.css" %}" type="text/css" /c>
+</head>
+<body>
+<div class = 'container'>
+<h1 id = "test">Résultats du Match:</h1>
+
+<form action="" method="POST" accept-charset="UTF-8">{% csrf_token %}
+    <div class="section">
+<h2>Affichage des Résultats</h2>
+<p>
+Résultats!!
+</p>
+    </div>
+    <input type="submit" value=" Submit " id = "btn_submit" />
+</form>
+</body>
+</html>

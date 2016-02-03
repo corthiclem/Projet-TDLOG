@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 13,
+        "biology": 0,
+        "economy": 14,
+        "musique": 4,
+        "spanish": 3,
+        "physics": 14,
+        "french": 0,
+        "maths": 4,
+        "sport": 16,
+        "phylosophy": 11
+    },
+    "gender": "male",
+    "name": "anna"
+}

@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 15,
+        "biology": 2,
+        "economy": 2,
+        "musique": 19,
+        "spanish": 2,
+        "physics": 20,
+        "french": 4,
+        "maths": 5,
+        "sport": 9,
+        "phylosophy": 14
+    },
+    "gender": "male",
+    "name": "pierre bastard"
+}

@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 5,
+        "biology": 14,
+        "economy": 15,
+        "musique": 0,
+        "spanish": 15,
+        "physics": 1,
+        "french": 3,
+        "maths": 13,
+        "sport": 12,
+        "phylosophy": 5
+    },
+    "gender": "male",
+    "name": "simon"
+}

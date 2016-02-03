@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 18,
+        "english": 13,
+        "biology": 16,
+        "musique": 16,
+        "spanish": 15,
+        "maths": 5,
+        "physics": 16,
+        "economy": 10,
+        "french": 2,
+        "sport": 0
+    },
+    "preferences": [],
+    "name": "pichon"
+}

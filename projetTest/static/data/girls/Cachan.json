@@ -1,0 +1,9 @@
+{
+    "gender": "female",
+    "standards": {
+        "economy": 0.9,
+        "poetry": 0.0
+    },
+    "capacity": 3,
+    "name": "Cachan"
+}

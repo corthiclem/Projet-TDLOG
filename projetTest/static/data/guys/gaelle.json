@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 16,
+        "english": 12,
+        "biology": 7,
+        "musique": 4,
+        "spanish": 4,
+        "maths": 13,
+        "physics": 13,
+        "economy": 14,
+        "french": 1,
+        "sport": 11
+    },
+    "preferences": [],
+    "name": "gaelle"
+}

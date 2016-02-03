@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 6,
+        "biology": 10,
+        "economy": 0,
+        "musique": 2,
+        "spanish": 18,
+        "physics": 15,
+        "french": 2,
+        "maths": 18,
+        "sport": 12,
+        "phylosophy": 7
+    },
+    "gender": "male",
+    "name": "aude"
+}

@@ -1,0 +1,11 @@
+{
+    "gender": "female",
+    "standards": {
+        "phylosophy": 0.7,
+        "maths": 0.7,
+        "biology": 1.0,
+        "poetry": 0.3
+    },
+    "capacity": 10,
+    "name": "PolytechniqueMontreal"
+}

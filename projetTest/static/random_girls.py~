@@ -1,0 +1,54 @@
+import json
+import os
+import random
+import threading
+
+names = ["MIT",
+        "Chez Clement",
+        "Ecole du Bois",
+        "Polytechnique Montreal",
+        "enpc",
+        "cambridge",
+        "centrale",
+        "Cachan"]
+subjects = ['french', 'english', 'maths', 'physics', 'biology', 'spanish', 'phylosophy', 'economy', 'sport', 'poetry']
+
+save_path = 'data/girls'
+
+def set_standards():
+	standards = {}
+	k = random.randint(0, len(subjects))
+	random_subjects = random.sample(subjects, k) # On cree une liste de k elements issus de la liste subjects pour modeliser
+												 # le fait que chaque personne ne regarde pas les memes criteres
+	for subject in random_subjects:
+		standards[subject] = float(random.randint(0, 10) / 10) # Indice compris entre 0 et 1
+	return standards
+
+def set_capacity():
+	return random.randint(1,11)
+
+def set_profile(name):
+	profile = {}
+	profile['gender'] = 'female'
+	profile['name'] = name
+	profile['standards'] = set_standards()
+	profile['capacity'] = set_capacity()
+	return profile
+
+def create_profile():
+	global verrou
+	verrou.acquire()
+	for name in names:
+		filename = name
+		completeName = os.path.join(save_path, filename +".json")
+		out_file = open(completeName, "w")
+		data = set_profile(name)
+		json.dump(data, out_file, indent=4)
+	verrou.release()
+
+verrou = threading.Lock()
+t = threading.Thread(target=create_profile)
+t.start()
+t.join()
+
+

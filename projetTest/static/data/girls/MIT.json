@@ -1,0 +1,11 @@
+{
+    "gender": "female",
+    "standards": {
+        "english": 1.0,
+        "biology": 0.4,
+        "poetry": 0.1,
+        "spanish": 1.0
+    },
+    "capacity": 1,
+    "name": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+    "gender": "female",
+    "standards": {
+        "phylosophy": 0.6,
+        "economy": 0.1,
+        "french": 1.0,
+        "biology": 0.6,
+        "sport": 0.9
+    },
+    "capacity": 2,
+    "name": "cambridge"
+}

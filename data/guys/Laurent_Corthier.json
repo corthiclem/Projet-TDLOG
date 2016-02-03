@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "name": "Laurent_Corthier",
+    "preferences": [
+        "enpc",
+        "cambridge",
+        "centrale",
+        "Cachan",
+        "PolytechniqueMontreal",
+        "ChezClement",
+        "EcoleduBois",
+        "MIT"
+    ],
+    "results": {
+        "french": 0.0
+    }
+}

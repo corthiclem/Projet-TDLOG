@@ -1,0 +1,53 @@
+{
+    "test": [
+        "robin",
+        "pichon",
+        "pierre"
+    ],
+    "enpc": [
+        "Jessica_Bismuth",
+        "marion",
+        "oussman",
+        "pierre bastard",
+        "sonia"
+    ],
+    "MIT": [
+        "solene",
+        "aude",
+        "bobby",
+        "dan",
+        "tom",
+        "Thierry_Martinez"
+    ],
+    "ChezClement": [
+        "davide"
+    ],
+    "EcoleduBois": [
+        "claire",
+        "thibault",
+        "thomas"
+    ],
+    "centrale": [
+        "Luc_Havy",
+        "leo",
+        "nicolas",
+        "clement",
+        "Laurent_Corthier"
+    ],
+    "cambridge": [
+        "adrien",
+        "gaelle",
+        "lucien",
+        "anna"
+    ],
+    "Cachan": [
+        "andreas"
+    ],
+    "PolytechniqueMontreal": [
+        "remi",
+        "hippolyte",
+        "lucas",
+        "simon",
+        "louis"
+    ]
+}

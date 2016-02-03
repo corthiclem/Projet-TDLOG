@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 17,
+        "biology": 17,
+        "economy": 16,
+        "musique": 16,
+        "spanish": 15,
+        "physics": 15,
+        "french": 19,
+        "maths": 13,
+        "sport": 1,
+        "phylosophy": 4
+    },
+    "gender": "male",
+    "name": "remi"
+}

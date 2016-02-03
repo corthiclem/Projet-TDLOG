@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 14,
+        "english": 3,
+        "biology": 16,
+        "musique": 18,
+        "spanish": 7,
+        "maths": 4,
+        "physics": 14,
+        "economy": 15,
+        "french": 14,
+        "sport": 5
+    },
+    "preferences": [],
+    "name": "oussman"
+}

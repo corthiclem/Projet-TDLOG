@@ -1,0 +1,15 @@
+{
+    "standards": {
+        "english": 0.0,
+        "physics": 0.0,
+        "economy": 0.0,
+        "phylosophy": 0.4,
+        "french": 0.7,
+        "maths": 0.9,
+        "sport": 0.3,
+        "poetry": 0.6
+    },
+    "capacity": 10,
+    "gender": "female",
+    "name": "centrale"
+}

@@ -1,0 +1,12 @@
+{
+    "gender": "female",
+    "standards": {
+        "french": 0.9,
+        "biology": 1.0,
+        "physics": 0.3,
+        "poetry": 0.2,
+        "maths": 0.6
+    },
+    "capacity": 8,
+    "name": "enpc"
+}

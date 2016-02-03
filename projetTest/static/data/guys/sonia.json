@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 20,
+        "english": 14,
+        "biology": 5,
+        "musique": 14,
+        "spanish": 10,
+        "maths": 11,
+        "physics": 4,
+        "economy": 19,
+        "french": 5,
+        "sport": 12
+    },
+    "preferences": [],
+    "name": "sonia"
+}

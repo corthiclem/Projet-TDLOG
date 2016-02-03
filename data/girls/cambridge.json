@@ -1,0 +1,9 @@
+{
+    "standards": {
+        "english": 0.3,
+        "french": 0.1
+    },
+    "capacity": 4,
+    "gender": "female",
+    "name": "cambridge"
+}

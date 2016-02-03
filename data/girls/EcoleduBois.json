@@ -1,0 +1,13 @@
+{
+    "standards": {
+        "english": 0.5,
+        "physics": 0.3,
+        "poetry": 0.1,
+        "maths": 1.0,
+        "sport": 0.3,
+        "phylosophy": 0.9
+    },
+    "capacity": 6,
+    "gender": "female",
+    "name": "EcoleduBois"
+}

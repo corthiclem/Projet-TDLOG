@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "standards": {
+        "phylosophy": 0.6,
+        "english": 0.5,
+        "biology": 0.8,
+        "french": 0.9,
+        "spanish": 1.0,
+        "maths": 0.8,
+        "poetry": 0.1,
+        "economy": 0.9,
+        "physics": 0.3,
+        "sport": 0.8
+    },
+    "capacity": 9,
+    "name": "centrale"
+}

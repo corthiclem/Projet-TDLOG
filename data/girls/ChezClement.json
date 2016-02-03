@@ -1,0 +1,13 @@
+{
+    "standards": {
+        "biology": 0.1,
+        "physics": 1.0,
+        "maths": 0.4,
+        "french": 0.1,
+        "sport": 1.0,
+        "poetry": 0.1
+    },
+    "capacity": 1,
+    "gender": "female",
+    "name": "ChezClement"
+}

@@ -1,0 +1,49 @@
+{
+    "centrale": [
+        "nicolas",
+        "dan",
+        "robin",
+        "oussman",
+        "pichon",
+        "gaelle"
+    ],
+    "enpc": [
+        "bobby",
+        "adrien",
+        "louis",
+        "lucien",
+        "sonia"
+    ],
+    "cambridge": [
+        "andreas",
+        "thibault"
+    ],
+    "MIT": [
+        "Thierry_Martinez"
+    ],
+    "ChezClement": [
+        "davide",
+        "lucas"
+    ],
+    "EcoleduBois": [
+        "thomas",
+        "pierre bastard",
+        "claire",
+        "solene"
+    ],
+    "Cachan": [
+        "tom",
+        "bob",
+        "aude"
+    ],
+    "PolytechniqueMontreal": [
+        "hippolyte",
+        "leo",
+        "marion",
+        "clement",
+        "anna",
+        "simon",
+        "pierre",
+        "remi"
+    ]
+}

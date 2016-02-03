@@ -1,0 +1,21 @@
+{
+    "Departement": "",
+    "preferences": [
+        "MIT",
+        "Chez Clément",
+        "Ecole du Bois",
+        "Polytechnique Montréal",
+        "enpc",
+        "cambridge",
+        "centrale",
+        "Cachan"
+    ],
+    "name": "Thierry_Martinez",
+    "results": {
+        "biology": 20.0,
+        "economy": 20.0,
+        "maths": 20.0,
+        "physics": 20.0
+    },
+    "gender": "male"
+}

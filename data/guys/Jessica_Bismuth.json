@@ -1,0 +1,21 @@
+{
+    "gender": "male",
+    "results": {
+        "english": 15.0,
+        "economy": 16.0,
+        "philosophy": 17.0,
+        "poetry": 10.0,
+        "spanish": 14.0
+    },
+    "name": "Jessica_Bismuth",
+    "preferences": [
+        "enpc",
+        "cambridge",
+        "centrale",
+        "Cachan",
+        "PolytechniqueMontreal",
+        "ChezClement",
+        "EcoleduBois",
+        "MIT"
+    ]
+}

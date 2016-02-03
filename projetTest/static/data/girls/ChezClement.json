@@ -1,0 +1,10 @@
+{
+    "gender": "female",
+    "standards": {
+        "poetry": 0.9,
+        "french": 0.6,
+        "maths": 0.6
+    },
+    "capacity": 7,
+    "name": "ChezClement"
+}

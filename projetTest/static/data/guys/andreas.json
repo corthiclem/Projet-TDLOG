@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 15,
+        "english": 17,
+        "biology": 19,
+        "musique": 16,
+        "spanish": 8,
+        "maths": 2,
+        "physics": 9,
+        "economy": 3,
+        "french": 12,
+        "sport": 16
+    },
+    "preferences": [],
+    "name": "andreas"
+}

@@ -1,0 +1,16 @@
+{
+    "standards": {
+        "english": 0.6,
+        "biology": 0.6,
+        "economy": 0.3,
+        "phylosophy": 0.9,
+        "physics": 0.8,
+        "french": 0.6,
+        "maths": 0.4,
+        "sport": 0.4,
+        "poetry": 1.0
+    },
+    "capacity": 5,
+    "gender": "female",
+    "name": "PolytechniqueMontreal"
+}

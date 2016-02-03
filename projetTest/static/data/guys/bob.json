@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 3,
+        "english": 0,
+        "biology": 8,
+        "musique": 3,
+        "spanish": 20,
+        "maths": 4,
+        "physics": 10,
+        "economy": 14,
+        "french": 10,
+        "sport": 14
+    },
+    "preferences": [],
+    "name": "bob"
+}

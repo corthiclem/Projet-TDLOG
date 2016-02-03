@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "name": "Luc_Havy",
+    "preferences": [
+        "enpc",
+        "cambridge",
+        "centrale",
+        "Cachan",
+        "PolytechniqueMontreal",
+        "ChezClement",
+        "EcoleduBois",
+        "MIT"
+    ],
+    "results": {
+        "maths": 20.0
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 4,
+        "english": 5,
+        "biology": 8,
+        "musique": 20,
+        "spanish": 1,
+        "maths": 6,
+        "physics": 17,
+        "economy": 9,
+        "french": 7,
+        "sport": 12
+    },
+    "preferences": [],
+    "name": "pierre"
+}

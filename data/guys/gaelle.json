@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 18,
+        "biology": 14,
+        "economy": 11,
+        "musique": 11,
+        "spanish": 7,
+        "physics": 12,
+        "french": 12,
+        "maths": 14,
+        "sport": 18,
+        "phylosophy": 9
+    },
+    "gender": "male",
+    "name": "gaelle"
+}

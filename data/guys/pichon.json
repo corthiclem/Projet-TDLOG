@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 4,
+        "biology": 12,
+        "economy": 20,
+        "musique": 7,
+        "spanish": 8,
+        "physics": 8,
+        "french": 7,
+        "maths": 18,
+        "sport": 20,
+        "phylosophy": 13
+    },
+    "gender": "male",
+    "name": "pichon"
+}

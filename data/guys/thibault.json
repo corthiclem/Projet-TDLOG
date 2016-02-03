@@ -1,0 +1,17 @@
+{
+    "preferences": [],
+    "results": {
+        "english": 4,
+        "biology": 20,
+        "economy": 9,
+        "musique": 10,
+        "spanish": 5,
+        "physics": 4,
+        "french": 16,
+        "maths": 12,
+        "sport": 13,
+        "phylosophy": 12
+    },
+    "gender": "male",
+    "name": "thibault"
+}

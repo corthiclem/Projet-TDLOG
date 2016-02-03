@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "results": {
+        "phylosophy": 16,
+        "english": 3,
+        "biology": 5,
+        "musique": 19,
+        "spanish": 17,
+        "maths": 9,
+        "physics": 7,
+        "economy": 10,
+        "french": 18,
+        "sport": 9
+    },
+    "preferences": [],
+    "name": "leo"
+}
